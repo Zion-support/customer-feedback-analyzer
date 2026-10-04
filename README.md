@@ -1,24 +1,11 @@
 # Customer Feedback Analyzer
 
-Unify reviews, support tickets, surveys and social mentions into one AI-analyzed stream of actionable customer insight.
+Unify reviews, tickets and surveys into one actionable insight stream.
 
-**Live app:** https://ziontechgroup.com/customer-feedback-analyzer/
+> Part of the **Zion AI App Network** — see [ZION_APP_NETWORK.md](./ZION_APP_NETWORK.md).
 
-## Features
-- Multi-source ingestion (reviews, tickets, surveys, chat, social)
-- Theme extraction, sentiment and urgency scoring
-- Trend detection and anomaly alerts
-- Auto-generated insight reports for product and CX teams
+## 🎯 Free AI Discovery
+https://ziontechgroup.com/discovery/ — free, always online; results shared instantly with you and commercial@ziontechgroup.com.
 
-## Part of the Zion AI App Network — Batch 74: Customer Experience & Retention AI
-- [Churn Prediction AI](https://github.com/Zion-support/churn-prediction-ai) — https://ziontechgroup.com/churn-prediction-ai/
-- [NPS Insight Copilot](https://github.com/Zion-support/nps-insight-copilot) — https://ziontechgroup.com/nps-insight-copilot/
-- [Onboarding Journey Optimizer](https://github.com/Zion-support/onboarding-journey-optimizer) — https://ziontechgroup.com/onboarding-journey-optimizer/
-- [Support Sentiment Radar](https://github.com/Zion-support/support-sentiment-radar) — https://ziontechgroup.com/support-sentiment-radar/
-- [Loyalty Program Optimizer](https://github.com/Zion-support/loyalty-program-optimizer) — https://ziontechgroup.com/loyalty-program-optimizer/
-
-## Free AI Discovery
-Take our **free online Discovery** and get your AI roadmap instantly: https://ziontechgroup.com/discovery/
-
----
-Hub: https://github.com/Zion-support/zion-app-network | © 2026 Zion Tech Group — https://ziontechgroup.com
+## 🔗 Links
+- https://ziontechgroup.com | Plans: https://ziontechgroup.com/en/plans/ | Showcase: https://ziontechgroup.com/apps/network.html | Hub: https://github.com/Zion-support/zion-network
